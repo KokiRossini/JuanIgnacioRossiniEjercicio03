@@ -16,7 +16,7 @@ namespace JuanIgnacioRossiniEjercicio03
             double mayorTemp, promedioTemp, sumaTemp;
 
             inicioTabla = 1;
-            mayorTemp = 0;
+            mayorTemp = -100;
             sumaTemp = 0;
             promedioTemp = 0;
 
